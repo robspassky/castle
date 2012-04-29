@@ -1,4 +1,4 @@
 castle
 ======
 
-My homesick castle.
+My homesick castle. For dotfiles.
